@@ -7,4 +7,4 @@ module.exports = function(){
   console.log('666')
 }
 
-console.log(exports)
+console.log(exports) // { add: 'add', del: 'del' }
